@@ -1,0 +1,6 @@
+Hypothesis,Path,Effect Type
+H1,Digital Service Quality → Customer Satisfaction,Positive direct effect
+H2,Digital Service Quality → Customer Loyalty,Positive direct effect
+H3,Customer Satisfaction → Customer Loyalty,Positive direct effect
+H4,Trust → Customer Loyalty,Positive direct effect
+H5,Digital Service Quality → Customer Satisfaction → Customer Loyalty,Mediating/indirect effect
